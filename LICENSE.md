@@ -12,4 +12,4 @@ This software is provided "as is" without warranty of any kind, express or impli
 
 Any reference to third-party libraries, frameworks, or assets within this project remains subject to their respective licenses and does not affect the ownership or licensing of the original work herein.
 
-For licensing inquiries, contact: legal@omconstructores.com and legal@magmacode.net
+For licensing inquiries, contact: sistemas@omconstructores.com and admin@magmacode.net
